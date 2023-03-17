@@ -1,0 +1,14 @@
+title: Deng                    # title of the site
+description: Life is fantastic # description of the site
+
+# Default layout
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "post"
+
+# Social
+weibo: 6549700503
+github: professordeng
+email: professordeng@qq.com

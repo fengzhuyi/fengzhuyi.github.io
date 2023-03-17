@@ -1,0 +1,49 @@
+---
+layout: default
+permalink: /tool.html
+title: 工具
+---
+
+这里记录我常用的一些工具。
+
+## 社交
+
+- [知乎](https://www.zhihu.com/people/professordeng) - 经验分享
+- [豆瓣](https://www.douban.com/people/professordeng/) - 电影、电视剧、书籍
+
+## 数据恢复
+
+- [Revuva](https://www.ccleaner.com/zh-cn/recuva) - 磁盘恢复软件
+
+## 图片
+
+- [TinyPNG](https://tinypng.com/) - 图片压缩网站
+
+## 电影
+
+- [YTS](https://yts.mx/) - 高清电影种子网站
+
+## 英语
+
+- [TED](https://www.ted.com/) - 名人演讲网站
+- [南方公园](https://www.southparkstudios.com/) - 系列动画
+
+## 哲学
+
+- [Chinese Text Project](https://ctext.org/) - 中国电子哲学书
+
+## 考研
+
+- [研招网](https://yz.chsi.com.cn/) - 研究生报名、准考证下载
+- [考研信息网](https://www.chinakaoyan.com/) - 考试大纲、录取信息
+- [王道论坛](http://cskaoyan.com/forum.php) - 计算机考研经验分享
+
+## 数学
+
+- [马同学](https://www.matongxue.com/) - 线代、微积分、概率论、机器学习
+- [MATH24](https://math24.net/) - 微积分、微分方程
+- [Khan Academy](https://www.khanacademy.org/) - 免费教育网站
+
+## 编程
+
+- [力扣](https://leetcode.cn/u/professordeng/) - 算法
