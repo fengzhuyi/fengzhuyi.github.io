@@ -11,12 +11,12 @@ html {
 }
 
 body {
-  color: var(--gray-400);
+  color: var(--body-color);
   background-color: var(--body-background);
 }
 
 a {
-  color: var(--gray-400);
+  color: var(--body-color);
   text-decoration: none;
 }
 
@@ -34,7 +34,7 @@ table {
 }
 
 th, td {    
-  border: 1px solid var(--gray-300);
+  border: 1px solid var(--body-color);
   padding: .25rem .5rem;
   text-align: center;
 }

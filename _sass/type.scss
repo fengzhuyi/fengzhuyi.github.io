@@ -1,6 +1,5 @@
 h1, h2, h3, h4, h5, h6 {
-  color: var(--gray-300);
-  font-weight: var(--gray-400);
+  font-weight: 400;
   line-height: 1.5;
 }
 
@@ -49,7 +48,6 @@ hr {
 blockquote {
   margin: .8rem 0;    
   padding: .3rem .8rem;   
-  color: var(--gray-400); 
   border-left: .25rem solid var(--gray-400); 
 	background-color: var(--gray-800);
 }
@@ -87,7 +85,7 @@ pre code {
 }
 
 .footnotes {
-  font-size: 16px;
+  font-size: .8rem;
   p {
     margin-bottom: 0;
   }
