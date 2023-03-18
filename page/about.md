@@ -4,6 +4,8 @@ permalink: /about.html
 title: 关于
 ---
 
+# 关于我
+
 我是丰，本科毕业于[深圳大学计算机学院](https://csse.szu.edu.cn/)，毕业后曾在[墨墨科技](https://www.maimemo.com/join)担任 iOS 开发工程师，任职期间参与产品 [Markji](https://www.markji.com/app) 的 iOS 客户端的开发。
 
 高中喜欢和同学讲解数学和理科知识，从那时开始喜欢分享，通过分享不仅可以帮助他人，也能加深自己对某一事物的看法。后来大学选了计算机专业，开始接触博客，并在大三的时候开始搭建自己的博客，中间写过很多文章，改过很多次网站样式，最终形成你现在看到的样子。
@@ -14,9 +16,15 @@ title: 关于
 
 我会在互联网上分享我的见闻，这就是我的网名 professordeng 的由来。
 
+## 联系我
+
+- 邮箱 - [professordeng@qq.com](mailto:professordeng@qq.com)
+- 微博 - [professordeng](https://weibo.com/u/6549700503)
+- 知乎 - [professordeng](https://www.zhihu.com/people/professordeng)
+
 ## 关于该网站
 
-- 域名注册于 [Tencent Cloud](https://dnspod.cloud.tencent.com/)
+- 网站采用 [Jekyll](https://jekyllrb.com/) 技术搭建
+- 网站模版为 [Theme](https://github.com/professordeng/theme)
 - 网站存放于 [GitHub](https://github.com/professordeng/blog)
-- 主题模版是 [Theme](https://github.com/professordeng/theme)
-
+- 域名在 [Tencent Cloud](https://dnspod.cloud.tencent.com/) 注册

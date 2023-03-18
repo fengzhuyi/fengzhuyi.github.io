@@ -3,7 +3,7 @@ title: 矩阵与线性变换
 mathjax: true
 ---
 
-阅读本文前，需要先了解[线性组合](linear-combination)。
+> 上一章：[线性组合](linear-combination)
 
 线性变换（Linear Transformation）是将向量作为输入和输出的一类函数。
 
@@ -71,3 +71,5 @@ $$
 线性变换计算直观，通过 $A\vec{v}$ 即可求出所有变换后的向量。
 
 其中 $A$ 是 $2\times 2$ 矩阵，矩阵的列是变换后的基向量。
+
+> 下一章：[矩阵乘法](/la/matrix-multiplication)

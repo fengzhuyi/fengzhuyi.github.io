@@ -3,9 +3,9 @@ title: 行列式
 mathjax: true
 ---
 
-> 行列式（Determinant）是伸缩因子。
+> 上一章：[三维空间的线性变换](/la/3d-transformation)
 
-阅读本文前，需要先了解[线性变换](matrix)。
+行列式（Determinant）是伸缩因子。
 
 ## 单位元
 
@@ -165,3 +165,5 @@ $$
 $$
 
 这就是拉普拉斯展开的本质。
+
+> 下一章：[逆矩阵](/la/inverse-matrix)

@@ -1,7 +1,8 @@
 ---
 title: 我为什么要搭建个人博客
-date: 2023-03-08
 ---
+
+> 收录于[随记](/note/)
 
 从 2018 年开始搭建个人博客，到现在有 5 年时间了，中间用过几次博客平台，但一直没有放弃独立博客。
 
@@ -13,7 +14,7 @@ date: 2023-03-08
 
 我用过很多写作平台，例如[知乎](https://www.zhihu.com/people/professordeng)、[简书](https://www.jianshu.com/u/457d7b6a84ec)、[博客园](https://www.cnblogs.com/professordeng)，但是这些平台总是有让我不舒服的地方。
 
-- 知乎的编辑器用起来不顺手，连 Markdown 语法都不支持。
+- 知乎的编辑样式并非所见即所得。
 - CSDN 广告太多，严重影响阅读体验。
 - 博客园的 UI 设计不好看。
 
