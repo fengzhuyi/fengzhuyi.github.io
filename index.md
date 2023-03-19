@@ -12,5 +12,6 @@ title: 首页
 - [C 是如何工作的](/note/c)
 - [协议、服务与接口](/note/interface)
 - [向量是什么](/la/vector)
+- [什么是软件工程](/se/se)
 
 > 更多文章请移步[归档](/archive)
