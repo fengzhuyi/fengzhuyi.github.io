@@ -3,7 +3,7 @@ title: 向量是什么
 mathjax: true
 ---
 
-> 收录于 [线性代数](/la/)
+> 收录于：[线性代数](/la/)
 
 向量（Vector）是[线性代数（Linear Algebra）](/la/)中最重要的概念之一。
 
