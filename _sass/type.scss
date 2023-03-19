@@ -53,13 +53,8 @@ blockquote {
 	background-color: var(--gray-800);
 }
 
-code,
-pre {
-  font-family: var(--code-font);     
-  font-size: var(--code-font-size);  
-}
-
 code {
+  font-family: var(--code-font);   
   color: var(--highlight-color);    
 }
 
@@ -73,16 +68,17 @@ pre {
   padding: .8rem .5rem;
   tab-size: 2;
 
+  code {
+    padding: 0;
+    font-size: 100%;
+    color: inherit;
+    background-color: transparent;
+  }
+
   &.highlight {
+    font-size: .9rem;
     overflow-x: auto;
   }
-}
-
-pre code {
-  padding: 0;
-  font-size: 100%;
-  color: inherit;
-  background-color: transparent;
 }
 
 .footnotes {
@@ -91,7 +87,6 @@ pre code {
     margin-bottom: 0;
   }
 }
-
 
 video {
   width: calc(100% + 2rem);
