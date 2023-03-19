@@ -63,11 +63,11 @@ mermaid: true
 <div class="mermaid">
 gantt
     title 任务甘特图
-    dateFormat MM-DD
-    axisFormat %m-%d
-    设计 :a, 04-03, 1d
-    编码 :b, after a, 1d
-    测试 :c, after b, 1d
+    dateFormat DD
+    axisFormat %d
+    设计 :a, 03, 4d
+    编码 :b, 05, 3d
+    测试 :c, after b, 3d
 </div>
 
 ### 2. 资源直方图
