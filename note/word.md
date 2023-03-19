@@ -1,5 +1,6 @@
 ---
 title: 如何背单词
+mermaid: true
 ---
 
 > 收录于：[随记](/note/)
@@ -17,6 +18,13 @@ title: 如何背单词
 一词多义：记住最常见释义。如 interest 有 `兴趣` 和 `利益` 的意思，只需记 `兴趣`。
 
 同根异义：通过词根词缀法记忆。拿 claim、acclaim、disclaim 三个词来说，词根 claim 表示 `声称`。acclaim 的前缀 ac 表强调，因此 acclaim 表示大声说，也就是 `欢呼` 的意思。disclaim 的前缀 dis 表否定，因此 disclaim 表示没有声称，也就是 `否认` 的意思。
+
+<div class="mermaid">
+mindmap
+Root((claim))
+    acclaim
+    disclaim
+</div>
 
 多词混淆：将混淆词放一块记。如 deprive、derive、deprave 可放一块记。
 
