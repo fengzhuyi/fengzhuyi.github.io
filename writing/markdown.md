@@ -1,10 +1,10 @@
 ---
-title: 网站样例
-mermaid: true
-mathjax: true
+title: markdown 写作样式
 ---
 
-# 大标题
+---
+
+# 一级标题
 
 ## 二级标题
 
@@ -14,13 +14,26 @@ mathjax: true
 
 ---
 
-## 段落
+## 段落与文本
 
-段落中允许不同样式的字体出现，例如 *斜体字* 、**粗体字** 、~~删除~~ 和 <u>下划线</u>。
+段落中允许不同样式的字体出现，包括：
 
-如果你有疑问，可以 [baidu](http://www.baidu.com/) 一下。
+- *斜体字* 的格式为 `*斜体字*`
+- **粗体字** 的格式为 `**粗体字**`
+- ~~删除线~~ 的格式为 `~~删除线~~` 
+- <u>下划线</u> 的格式为 `<u>下划线</u>`
+
+段落支持链接，例如链接到[我的首页](https://www.professordeng.com)，语法如下：
+
+```markdown
+[我的首页](https://www.professordeng.com)
+```
+
+段落支持脚注，如下面的一句话，点击句末的脚注，会跳转到文章末尾的引用。
 
 不在沉默中爆发，就在沉默中灭亡。[^luxun]
+
+如果想高亮某一句话，在段首加上 `>` 即可。 
 
 > 想要和得到，中间还有两个字，那就是要做到，只有做到了才能得到。
 
@@ -67,50 +80,11 @@ My father used to say, whatever you do, do it a hundred percent, when you work, 
 
 ---
 
-## 数学公式
-
-数学公式由 [MathJax](https://www.mathjax.org/) 提供支持，样例如下
-
-圆的周长 $c$ 和半径 $r$ 的关系:
-
-$$
-c=2 \pi r
-$$
-
----
-
-## 流程图
-
-流程图由 [Mermaid](https://mermaid.js.org/) 提供支持，样例如下
-
-<div class="mermaid">
-graph LR
-    A --- B
-    B-->C[fa:fa-ban forbidden]
-    B-->D(fa:fa-spinner);
-</div>
-
----
-
 ## 图片
 
 通过语法 `![名称](链接)` 插入图片，样例如下
 
 ![picture](img/big.jpg)
-
----
-
-## Youtube
-
-获取 YouTube 视频的 id，填入 src 的链接中
-
-``` html
-<iframe class="video" src="链接" allowfullscreen></iframe>
-```
-
-样例如下
-
-<iframe class="video" src="https://www.youtube.com/embed/-wFsYY71wyk" allowfullscreen></iframe>
 
 ---
 
@@ -135,30 +109,6 @@ graph LR
 
 1. [x] 洗澡
 2. [ ] 化妆
-
-## B 站
-
-获取 B 站视频的 bvid，填入 src 的链接中
-
-```html
-<iframe class="video" src="链接" allowfullscreen> </iframe>
-```
-
-样例如下
-
-<iframe class="video" src="//player.bilibili.com/player.html?bvid=BV1rK4y177YB" allowfullscreen> </iframe>
-
-## Video
-
-获取 mp4 链接，填入 src 的链接中
-
-```html
-<video src="链接" controls controlsList="nodownload"></video>
-```
-
-样例如下
-
-<video src="https://cdn-video.xinpianchang.com/5b7fc02a84108.mp4" controls controlsList="nodownload"></video>
 
 ## 参考
 
