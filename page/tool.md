@@ -47,5 +47,6 @@ title: 工具
 
 ## 编程
 
+- [人人都是产品经理](https://www.woshipm.com/) - 产品运维、数据增长
 - [力扣](https://leetcode.cn/u/professordeng/) - 算法
 - [Refactoring](https://refactoring.guru/) - 设计模式、代码重构
