@@ -6,6 +6,10 @@ title: 工具
 
 这里记录我常用的一些工具。
 
+## 写作
+
+- [表格生成器](https://tableconvert.com/) - Markdown、CSV
+
 ## 社交
 
 - [知乎](https://www.zhihu.com/people/professordeng) - 经验分享
@@ -50,3 +54,8 @@ title: 工具
 - [人人都是产品经理](https://www.woshipm.com/) - 产品运维、数据增长
 - [力扣](https://leetcode.cn/u/professordeng/) - 算法
 - [Refactoring](https://refactoring.guru/) - 设计模式、代码重构
+- [菜鸟教程](https://www.runoob.com/) - 所有编程入门知识
+
+## 前端
+
+- [数据可视化](https://awesome.cube.dev/) - JS 库

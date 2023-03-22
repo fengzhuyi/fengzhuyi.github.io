@@ -13,5 +13,6 @@ title: 首页
 - [协议、服务与接口](/note/interface)
 - [向量是什么](/la/vector)
 - [什么是软件工程](/se/se)
+- [命题与联结词](/logic/proposition)
 
 > 更多文章请移步：[归档](/archive)
