@@ -3,6 +3,8 @@ title: C 是如何工作的
 mermaid: true
 ---
 
+> 收录于：[C 语言](/c/)
+
 C 语言从代码到可执行文件需要经过以下过程
 
 <div class="mermaid">
