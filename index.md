@@ -12,6 +12,7 @@ title: 首页
 - [C 是如何工作的](/c/compile)
 - [协议、服务与接口](/note/interface)
 - [向量是什么](/la/vector)
+- [什么是数据库系统](/db/dbs)
 - [什么是软件工程](/se/se)
 - [命题与联结词](/logic/proposition)
 
