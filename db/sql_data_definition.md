@@ -45,10 +45,10 @@ DROP SCHEMA schema_name CASCADE;
 ```sql
 CREATE TABLE table_name
 (
-col_name data_type constraint, 
-col_name data_type constraint, 
-col_name data_type constraint, 
-col_name data_type constraint
+    col_name data_type constraint, 
+    col_name data_type constraint, 
+    col_name data_type constraint, 
+    col_name data_type constraint
 );
 ```
 
@@ -59,10 +59,10 @@ col_name data_type constraint
 ```sql
 CREATE TABLE Student
 (
-id CHAR(9) PRIMARY KEY, 
-name CHAR(20) UNIQUE, 
-sex CHAR(2), 
-age SMALLINT 
+    id CHAR(9) PRIMARY KEY, 
+    name CHAR(20) UNIQUE, 
+    sex CHAR(2), 
+    age SMALLINT 
 );
 ```
 

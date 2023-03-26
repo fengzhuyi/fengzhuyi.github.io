@@ -10,7 +10,7 @@ title: 首页
 - [如何背单词](/note/word)
 - [如何培养数学思维](/note/math)
 - [C 是如何工作的](/c/compile)
-- [协议、服务与接口](/note/interface)
+- [协议、服务与接口](/cn/interface)
 - [向量是什么](/la/vector)
 - [什么是数据库系统](/db/dbs)
 - [什么是软件工程](/se/se)
