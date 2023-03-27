@@ -13,3 +13,4 @@ title: 数据库系统
 - [SQL 数据定义](/db/sql_data_definition)
 - [数据库安全性](/db/security)
 - [数据库完整性](/db/integrity)
+- [规范化](/db/norm)
