@@ -48,6 +48,8 @@ title: 工具
 - [马同学](https://www.matongxue.com/) - 线代、微积分、概率论、机器学习
 - [MATH24](https://math24.net/) - 微积分、微分方程
 - [Khan Academy](https://www.khanacademy.org/) - 免费教育网站
+- [GeoGebra](https://www.geogebra.org/)
+- [Desmos](https://www.desmos.com/)
 
 ## 编程
 
