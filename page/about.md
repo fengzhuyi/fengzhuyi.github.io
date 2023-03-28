@@ -19,7 +19,6 @@ title: 关于
 ## 联系我
 
 - 邮箱 - [professordeng@qq.com](mailto:professordeng@qq.com)
-- 微博 - [professordeng](https://weibo.com/u/6549700503)
 - 知乎 - [professordeng](https://www.zhihu.com/people/professordeng)
 
 ## 关于该网站
