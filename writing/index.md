@@ -8,5 +8,5 @@ title: 写作
 - [流程图](/writing/mermaid)
 - [B 站视频](/writing/bilibili)
 - [Youtube 视频](/writing/youtube)
-- [MP4 视频](/writing/video)
+- [TED 视频](/writing/ted)
 
