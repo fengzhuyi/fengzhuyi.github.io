@@ -7,8 +7,8 @@ title: 首页
 
 - [我为什么要搭建个人博客](/note/blog)
 - [分享的意义](/note/share)
-- [如何背单词](/note/word)
 - [如何培养数学思维](/note/math)
+- [如何提高英语阅读能力](/eng/reading)
 - [C 是如何工作的](/c/compile)
 - [协议、服务与接口](/cn/interface)
 - [向量是什么](/la/vector)
