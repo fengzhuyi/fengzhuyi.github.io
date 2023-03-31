@@ -18,3 +18,4 @@ title: 数据库系统
 - [数据库安全性](/db/security)
 - [数据库完整性](/db/integrity)
 - [规范化](/db/norm)
+- [事务](/db/transaction)
