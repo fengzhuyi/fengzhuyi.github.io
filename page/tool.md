@@ -51,13 +51,11 @@ title: 工具
 - [GeoGebra](https://www.geogebra.org/) - 数学图像绘制
 - [Desmos](https://www.desmos.com/) - 数学图像绘制
 
-## 编程
+## 计算机
 
+- [Deep learning](https://www.deeplearning.ai/) - 深度学习课程
 - [人人都是产品经理](https://www.woshipm.com/) - 产品运维、数据增长
 - [力扣](https://leetcode.cn/u/professordeng/) - 算法
 - [Refactoring](https://refactoring.guru/) - 设计模式、代码重构
 - [菜鸟教程](https://www.runoob.com/) - 所有编程入门知识
-
-## 前端
-
 - [数据可视化](https://awesome.cube.dev/) - JS 库
