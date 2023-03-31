@@ -200,7 +200,7 @@ SQL 提供 EXISTS 谓词，用于判断是否存在数据。
 SELECT name FROM student
 WHERE EXISTS (
     SELECT * FROM course
-    WHERE course.pid = student.id AND course.id = '1'
+    WHERE course.sid = student.id AND course.id = '1'
 );
 ```
 
@@ -232,8 +232,8 @@ SELECT * FROM student WHERE age > 19;
 
 ```sql
 SELECT name
-FROM student, (SELECT pid FROM course WHERE id = '1') AS C
-WHERE student.id = C.pid;
+FROM student, (SELECT sid FROM course WHERE id = '1') AS C
+WHERE student.id = C.sid;
 ```
 
 通过 FROM 子句生成派生表时，必须为派生关系指定一个别名。
