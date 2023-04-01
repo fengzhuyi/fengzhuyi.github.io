@@ -1,5 +1,5 @@
 ---
-title: 逆矩阵
+title: 线性方程组与逆矩阵
 mathjax: true
 ---
 

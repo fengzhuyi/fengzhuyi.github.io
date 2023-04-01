@@ -15,6 +15,7 @@ title: 线性代数
 - [非方阵](nonsquare-matrix)
 - [点积](dot-product)
 - [叉积](/la/cross-product)
+- [基变换](/la/change-of-basis)
 
 ## 参考资料
 
