@@ -5,7 +5,7 @@ mathjax: true
 
 > 上一章：[线性组合](linear-combination)
 
-线性变换（Linear Transformation）是将向量作为输入和输出的一类函数。
+线性变换是将向量作为输入和输出的一类函数。
 
 ## 本质
 
@@ -21,7 +21,7 @@ $$
 \vec{v} = -1\cdot\begin{bmatrix}1\\-2\end{bmatrix} + 2\cdot\begin{bmatrix}3\\0\end{bmatrix}=\begin{bmatrix}5\\2\end{bmatrix}
 $$
 
-对基 $\vec{i}$ 和 $\vec{j}$ 施加变换，$\vec{v}$ 也随之变换，该过程称为线性变换。
+上述过程称为线性变换（Linear Transformation）。
 
 ## 矩阵
 
