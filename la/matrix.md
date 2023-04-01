@@ -21,7 +21,7 @@ $$
 \vec{v} = -1\cdot\begin{bmatrix}1\\-2\end{bmatrix} + 2\cdot\begin{bmatrix}3\\0\end{bmatrix}=\begin{bmatrix}5\\2\end{bmatrix}
 $$
 
-上述过程称为线性变换（Linear Transformation）。
+该过程为线性变换（Linear Transformation）。
 
 ## 矩阵
 

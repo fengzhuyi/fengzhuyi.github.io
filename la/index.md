@@ -14,6 +14,7 @@ title: 线性代数
 - [逆矩阵](inverse-matrix)
 - [非方阵](nonsquare-matrix)
 - [点积](dot-product)
+- [叉积](/la/cross-product)
 
 ## 参考资料
 
