@@ -17,6 +17,7 @@ title: 线性代数
 - [叉积](/la/cross-product)
 - [基变换](/la/change-of-basis)
 - [特征向量与特征值](/la/eigenvector)
+- [向量空间](/la/vector-space)
 
 ## 参考资料
 
