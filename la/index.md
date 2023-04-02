@@ -18,6 +18,7 @@ title: 线性代数
 - [基变换](/la/change-of-basis)
 - [特征向量与特征值](/la/eigenvector)
 - [向量空间](/la/vector-space)
+- [克莱姆法则](/la/cramer-rule)
 
 ## 参考资料
 
