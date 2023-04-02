@@ -16,6 +16,7 @@ title: 线性代数
 - [点积](dot-product)
 - [叉积](/la/cross-product)
 - [基变换](/la/change-of-basis)
+- [特征向量与特征值](/la/eigenvector)
 
 ## 参考资料
 
