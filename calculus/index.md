@@ -4,7 +4,7 @@ title: 微积分
 
 # 微积分
 
-- [路程](/calculus/distance)
+- [面积](/calculus/area)
 
 ## 参考链接
 
