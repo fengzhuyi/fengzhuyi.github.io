@@ -1,9 +1,6 @@
 ---
-layout: default
 title: 随记
 ---
-
-# 随记
 
 - [我为什么要搭建个人博客](/note/blog)
 - [分享的意义](/note/share)

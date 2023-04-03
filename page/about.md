@@ -1,10 +1,7 @@
 ---
-layout: default
 permalink: /about.html
 title: 关于
 ---
-
-# 关于我
 
 我是丰，本科就读于[深圳大学计算机学院](https://csse.szu.edu.cn/)，毕业后曾在[墨墨科技](https://www.maimemo.com/join)担任 iOS 开发工程师，任职期间参与产品 [Markji](https://www.markji.com/app) 的 iOS 客户端的开发。
 

@@ -1,9 +1,6 @@
 ---
-layout: default
 title: 数据库系统
 ---
-
-# 数据库系统
 
 - [什么是数据库系统](/db/dbs)
 - [关系数据库](/db/rdbms)

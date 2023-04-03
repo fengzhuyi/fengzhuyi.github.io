@@ -1,9 +1,6 @@
 ---
-layout: default
 title: 线性代数
 ---
-
-# 线性代数
 
 - [向量是什么](vector)
 - [线性组合](linear-combination)
