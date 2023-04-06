@@ -1,4 +1,5 @@
 ---
+layout: page
 permalink: /about.html
 title: 关于
 ---
@@ -17,6 +18,8 @@ title: 关于
 
 - 邮箱 - [professordeng@qq.com](mailto:professordeng@qq.com)
 - 知乎 - [professordeng](https://www.zhihu.com/people/professordeng)
+- B 站 - [professordeng](https://space.bilibili.com/491275843) 
+- Github - [professordeng](https://github.com/professordeng)
 
 ## 关于该网站
 

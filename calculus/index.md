@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 微积分
 ---
 

@@ -1,5 +1,5 @@
-title: Deng                 # title of the site
-description: Less is more.  # description of the site
+title: professordeng.com  # title of the site
+description: 邓文丰的思维空间 # description of the site
 
 # Default layout
 defaults:
@@ -7,9 +7,3 @@ defaults:
       path: ""
     values:
       layout: "post"
-
-# Social
-zhihu: professordeng
-bilibili: 491275843
-github: professordeng
-email: professordeng@qq.com

@@ -1,4 +1,5 @@
 ---
+layout: page
 permalink: /tool.html
 title: 工具
 ---
