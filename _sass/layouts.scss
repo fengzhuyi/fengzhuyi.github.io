@@ -24,6 +24,7 @@
     margin: .8rem 0;    
     padding: .3rem .8rem;   
     border: 2px solid var(--gray-500); 
+    transition: 0.5s;
     &:hover {
       color: var(--main-color);
       background-color: var(--gray-500);
@@ -42,6 +43,7 @@
     font-size: .9rem;
     color: var(--gray-500);
     text-decoration: none;
+    transition: 0.5s;
     &:hover {
       color: var(--gray-300);
     }
