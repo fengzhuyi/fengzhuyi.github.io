@@ -3,8 +3,6 @@ title: 软件项目管理
 mermaid: true
 ---
 
-> 上一章：[软件开发生命周期](/se/life-cycle)
-
 软件开发的工作可分为两部分：
 
 - 软件生产（Software Creation）
@@ -76,5 +74,3 @@ gantt
 | Developer | 0         | 4       | 3       | 
 | Tester    | 0         | 0       | 1       |
 | Total     | 4         | 8       | 6       |
-
-> 下一章：[软件需求](/se/requirement)

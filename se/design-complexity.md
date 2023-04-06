@@ -2,8 +2,6 @@
 title: 软件设计的复杂性
 ---
 
-> 上一章：[软件设计工具](/se/design-too;)
-
 软件设计的最大目标，就是降低复杂性（complexity）。
 
 复杂度指任何使得软件难以理解和修改的因素。
@@ -31,5 +29,3 @@ title: 软件设计的复杂性
 ## 参考资料
 
 - [如何降低软件的复杂性](https://www.ruanyifeng.com/blog/2018/09/complexity.html)
-
-> 下一章：[软件实现](/se/coding)

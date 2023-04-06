@@ -3,8 +3,6 @@ title: 点积
 mathjax: true
 ---
 
-> 上一章：[非方阵](/la/nonsquare-matrix)
-
 在物理学中点积（Dot Product）定义如下：
 
 $$

@@ -3,8 +3,6 @@ title: 命题与联结词
 mathjax: true
 ---
 
-> 收录于：[数理逻辑](/logic)
-
 陈述句是陈述一个事实或者说话人的看法。
 
 `命题`是陈述句，能判断真假，但不能既真又假。
@@ -83,5 +81,3 @@ $p \rightarrow q$ 为假当且仅当 p 为真且 q 为假。
 其中 $\leftrightarrow$ 称为`等价联结词`。
 
 $p \leftrightarrow q$ 为真当且仅当 $p$ 与 $q$ 的真值相同。
-
-> 下一章：[命题公式与赋值](/logic/formula)
