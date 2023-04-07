@@ -12,22 +12,29 @@
     padding: 1rem;
     border-top: 1px solid var(--gray-700);
     border-bottom: 1px solid var(--gray-700);
+}
+
+.field {
+    border-left: 1px solid var(--gray-700);
+    border-right: 1px solid var(--gray-700);
+    margin: .25rem 0;
 
     & h1 {
         text-align: center;
-        padding-top: 1rem;
+        display: block;
+        margin: 0;
+        padding: .5rem;
+        font-size: 1rem;
+        background-color: var(--gray-700);
     }
 
     & a {
         display: block;
-        margin: .8rem 0;
-        padding: .3rem .8rem;
-        border: 2px solid var(--gray-500);
-        transition: 0.5s;
-
-        &:hover {
-            color: var(--main-color);
-            background-color: var(--gray-500);
+        padding: .5rem;
+        border-bottom: 1px solid var(--gray-700);
+        transition: background-color 0.2s;
+        &:hover, :focus {
+            background-color: var(--gray-700);
         }
     }
 }

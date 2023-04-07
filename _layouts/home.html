@@ -2,20 +2,30 @@
 layout: default
 ---
 
-{% include header.html %}
+<div class="header">
+    <p class="header-title">{{ site.title }}</p>
+    <p class="header-description">{{ site.description }}</p>
+</div>
 
 <div class="archive">
-    <a href="/note/">随记</a>
-    <a href="/writing/">写作规范</a>
-    <a href="/eng/">英语</a>
+    <div class="field">
+        <h1>生活</h1>
+        <a href="/note/">随记</a>
+        <a href="/writing/">写作规范</a>
+        <a href="/eng/">英语</a>
+    </div>
 
-    <h1>数学</h1>
-    <a href="/la/">线性代数</a>
-    <a href="/calculus/">微积分</a>
-    <a href="/logic/">数理逻辑</a>
+    <div class="field">
+        <h1>数学</h1>
+        <a href="/la/">线性代数</a>
+        <a href="/calculus/">微积分</a>
+        <a href="/logic/">数理逻辑</a>
+    </div>
 
-    <h1>计算机</h1>
-    <a href="/c/">C 语言</a>
-    <a href="/db/">数据库系统</a>
-    <a href="/se/">软件工程</a>
+    <div class="field">
+        <h1>计算机</h1>
+        <a href="/c/">C 语言</a>
+        <a href="/db/">数据库系统</a>
+        <a href="/se/">软件工程</a>
+    </div>
 </div>
