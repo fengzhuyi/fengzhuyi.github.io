@@ -12,7 +12,7 @@ SQL 使用 INSERT 语句插入数据。
 
 ```sql
 INSERT INTO student(id, name, sex, age, dept)
-VALUES('20230214', '张三', '男'，'18', 'math');
+VALUES('20230214', '张三', '男', '18', 'math');
 ```
 
 若不指出属性名，则表明新元组要在表的所有属性列上都指定值，属性列的次序与 CREATE TABLE 中的次序相同。

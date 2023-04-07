@@ -1,0 +1,9 @@
+.page {
+    padding: 1rem;
+    border-top: 1px solid var(--gray-700);
+    border-bottom: 1px solid var(--gray-700);
+
+    a {
+        border-bottom: 1px dashed var(--body-color);
+    }
+}
