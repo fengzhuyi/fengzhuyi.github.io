@@ -7,3 +7,4 @@ title: C 语言
 - [C 是如何工作的](/c/compile)
 - [C 语言的控制流](/c/control-flow)
 - [数组](/c/array)
+- [函数](/c/function)
