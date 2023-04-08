@@ -10,3 +10,4 @@ title: C 语言
 - [函数](/c/function)
 - [指针](/c/pointer)
 - [数据类型](/c/data-type)
+- [文件处理](/c/file)
