@@ -4,6 +4,7 @@ title: 写作
 ---
 
 - [技术博客写作规范](/writing/blog)
+- [博客框架](/writing/blog-structure)
 - [markdown 写作样式](/writing/markdown)
 - [数学公式](/writing/mathjax)
 - [流程图](/writing/mermaid)
