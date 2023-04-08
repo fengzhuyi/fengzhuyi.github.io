@@ -22,5 +22,5 @@ title: 线性代数
 
 - [Grant - 线性代数的本质](https://www.bilibili.com/video/BV1ys411472E/)
 - [马同学 - 线性代数](https://www.matongxue.com/courses/1/)
-- [李艳芳 - 真题系列](https://www.bilibili.com/video/BV164411o7Qo/)
-- [维基 - 线性代数](https://en.wikipedia.org/wiki/Linear_algebra)
+- [李艳芳 - 考研数学二](https://www.bilibili.com/video/BV164411o7Qo/)
+- [Wiki - 线性代数](https://en.wikipedia.org/wiki/Linear_algebra)

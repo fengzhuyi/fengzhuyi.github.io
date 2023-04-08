@@ -9,3 +9,4 @@ title: C 语言
 - [数组](/c/array)
 - [函数](/c/function)
 - [指针](/c/pointer)
+- [数据类型](/c/data-type)
