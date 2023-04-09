@@ -14,3 +14,4 @@ title: C++ 语言
 ## 标准库
 
 - [容器](/cpp/container)
+- [算法](/cpp/algorithm)
