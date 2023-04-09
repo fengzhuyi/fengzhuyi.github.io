@@ -11,6 +11,7 @@ title: C++ 语言
 - [多态](/cpp/virtual)
 - [异常处理](/cpp/try-catch)
 - [动态内存](/cpp/new)
+- [泛型](/cpp/template)
 
 ## 标准库
 
