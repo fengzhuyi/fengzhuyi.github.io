@@ -10,6 +10,7 @@ title: C++ 语言
 - [重载](/cpp/overload)
 - [多态](/cpp/virtual)
 - [异常处理](/cpp/try-catch)
+- [动态内存](/cpp/new)
 
 ## 标准库
 
