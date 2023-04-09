@@ -9,3 +9,4 @@ title: C++ 语言
 - [类和对象](/cpp/class)
 - [重载](/cpp/overload)
 - [多态](/cpp/virtual)
+- [异常处理](/cpp/try-catch)
