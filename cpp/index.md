@@ -15,3 +15,6 @@ title: C++ 语言
 
 - [容器](/cpp/container)
 - [算法](/cpp/algorithm)
+- [迭代器](/cpp/iterator)
+- [输入输出](/cpp/io)
+- [文件读写](/cpp/file)
