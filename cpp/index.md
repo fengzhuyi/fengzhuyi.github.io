@@ -7,3 +7,5 @@ title: C++ 语言
 - [C++ 数据类型](/cpp/data-type)
 - [匿名函数](/cpp/lambda)
 - [类和对象](/cpp/class)
+- [重载](/cpp/overload)
+- [多态](/cpp/virtual)

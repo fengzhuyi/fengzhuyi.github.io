@@ -14,13 +14,15 @@ title: 匿名函数
 
 Lambda 表达式的基本语法格式如下：
 
-```cpp
+```
 [capture](parameters) -> return_type {
     // 函数体
 }
 ```
 
 其中，capture 指定了 Lambda 表达式访问外部作用域变量的方式；parameters 指定了 Lambda 表达式的参数列表；return_type 指定了 Lambda 表达式的返回值类型；函数体则是具体实现功能的代码。
+
+需要注意的是，Lambda 表达式可以访问其所在作用域中的变量，并且可以通过 capture 指定访问方式。capture 可以是 = 或 &，分别表示按值和按引用访问变量。例如：
 
 ```cpp
 int x = 1, y = 2;
