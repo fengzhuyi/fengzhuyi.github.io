@@ -8,6 +8,7 @@ title: 数据结构
 - [链表](/ds/list)
 - [栈](/ds/stack)
 - [队列](/ds/queue)
+- [KMP 算法](/ds/kmp)
 
 ## 参考资料
 
