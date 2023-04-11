@@ -6,6 +6,8 @@ title: 数据结构
 - [什么是数据结构](/ds/overview)
 - [数组](/ds/array)
 - [链表](/ds/list)
+- [栈](/ds/stack)
+- [队列](/ds/queue)
 
 ## 参考资料
 
