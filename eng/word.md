@@ -1,5 +1,5 @@
 ---
-title: 我
+title: 如何记单词
 mermaid: true
 ---
 
