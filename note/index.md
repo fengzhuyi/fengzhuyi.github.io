@@ -8,3 +8,4 @@ title: 随记
 - [如何培养数学思维](/note/math)
 - [行为的第一动力](/note/power)
 - [提高执行力的技巧](/note/executive-force)
+- [如何开启一段恋情](/note/love-start)
