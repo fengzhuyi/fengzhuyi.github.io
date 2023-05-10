@@ -14,7 +14,7 @@ title: 如何提升英语阅读能力
 
 ## 主语和宾语
 
-描述一件事，首先得找动作的施加者，称之为主语，如：
+描述一件事，首先得找动作的施加者，称之为主语。
 
 ```
 I picked up a stone.
@@ -45,7 +45,7 @@ I, a high school student, was admitted to university.
 
 ## 谓语
 
-谓语用于描述动作：
+谓语用于描述主语的动作或状态。
 
 ```
 I picked up a stone.
@@ -67,4 +67,50 @@ He likes playing basketball.
 
 ## 定语
 
-未完待续...
+定语用于修饰、限制名词。
+
+```
+I need a red flower.
+我需要一朵小红花。
+```
+
+其中 `red` 就是定语。
+
+我需要一朵花，这朵花的颜色必须是红色，这样就排除了其他颜色的花，起到了限定的作用，因此被称为定语。
+
+## 状语
+
+状语用于修饰、限制动作。
+
+```
+You speak English very well. 
+你英语说得非常好。
+```
+
+其中 `very well` 就是状语，用于修饰说英语的流利程度。
+
+## 补语
+
+补语指主语、谓语或宾语的补充成分，而且去掉补语后句子将不完整。
+
+```
+I call he David.
+我叫他大卫。
+```
+
+其中 `David` 是对 `he` 的补充，如果去掉补语，这个句子的意思就完全变了。
+
+```
+You treat me well. 
+你对我很好。
+```
+
+其中 `well` 是对 `treat` 的补充。
+
+```
+I am a student.
+我是一个学生。
+```
+
+其中 `a student` 是对 `I` 的补充。
+

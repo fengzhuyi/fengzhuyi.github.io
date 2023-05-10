@@ -29,12 +29,14 @@ C 语言编写的程序，还是要翻译成汇编语言，该过程称为`编�
 最简单的 C 语言程序如下：
 
 ```c
-#include <stdio.h>             // stdio.h 提供 printf 的实现  
+#include <stdio.h>        
 int main() {                   // main 函数提供程序入口，系统会进行定位执行
     printf("Hello world. \n"); // printf 方法负责将语句输出到屏幕上
     return 0;                  // 0 作为返回值表示运行正常结束
 }
 ```
+
+头文件 `stdio.h` 提供 printf 的实现。
 
 ## 可移植性
 
