@@ -8,3 +8,4 @@ title: 数理逻辑
 - [等值演算](/logic/equivalent-formula)
 - [主析取范式](/logic/dnf)
 - [命题推理](/logic/propositional-reasoning)
+- [一阶逻辑](/logic/fol)
