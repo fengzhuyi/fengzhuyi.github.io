@@ -10,8 +10,8 @@ title: 关于
 
 - 知乎 - [丰主义](https://www.zhihu.com/people/professordeng)
 - B 站 - [丰主义](https://space.bilibili.com/491275843)
+- Github - [丰主义](https://github.com/fengzhuyi)
 - 邮箱 - [professordeng@qq.com](mailto:professordeng@qq.com)
-- Github - [professordeng](https://github.com/professordeng)
 
 ## 关于该网站
 

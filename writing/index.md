@@ -1,11 +1,11 @@
 ---
 layout: page
-title: 写作
+title: 网站规范
 ---
 
-- [技术博客写作规范](/writing/blog)
+- [写作规范](/writing/writing-format)
 - [博客框架](/writing/blog-structure)
-- [markdown 写作样式](/writing/markdown)
+- [Markdown 写作样式](/writing/markdown)
 - [数学公式](/writing/mathjax)
 - [流程图](/writing/mermaid)
 - [B 站视频](/writing/bilibili)
