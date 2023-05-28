@@ -8,9 +8,9 @@ title: 关于
 
 ## 联系我
 
-- 知乎 - [丰主义](https://www.zhihu.com/people/professordeng)
-- B 站 - [丰主义](https://space.bilibili.com/491275843)
-- Github - [丰主义](https://github.com/fengzhuyi)
+- 知乎 - [professordeng](https://www.zhihu.com/people/professordeng)
+- B 站 - [professordeng](https://space.bilibili.com/491275843)
+- Github - [professordeng](https://github.com/professordeng)
 - 邮箱 - [professordeng@qq.com](mailto:professordeng@qq.com)
 
 ## 关于该网站
