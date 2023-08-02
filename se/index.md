@@ -4,7 +4,7 @@ title: 软件工程
 ---
 
 - [什么是软件工程](/se/se)
-- [软件开发生命周期](/se/sdlc)
+- [软件开发生命周期](/se/life-cycle)
 - [软件项目管理](/se/project-management)
 - [软件需求](/se/requirement)
 - [软件设计](/se/design)
